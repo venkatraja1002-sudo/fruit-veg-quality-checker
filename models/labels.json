@@ -1,0 +1,16 @@
+{
+  "class_names": [
+    "apple_fresh",
+    "apple_rotten",
+    "banana_fresh",
+    "banana_rotten",
+    "bitter_gourd_fresh",
+    "bitter_gourd_rotten",
+    "capsicum_fresh",
+    "capsicum_rotten",
+    "orange_fresh",
+    "orange_rotten",
+    "tomato_fresh",
+    "tomato_rotten"
+  ]
+}
